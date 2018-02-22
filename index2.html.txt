@@ -16,7 +16,7 @@
     </table>
  
     <p>Let's see if this works 
-        <img src"http://www.inetjuhhh.nl/2017/08/13/verliefd-op-cambodja-siem-reap-dag-9-10-11-12/"> </p>
+       </p>
     <p>To prove that they work, you can execute either of the following links:
     <ul>
       <li>To a <a href="hello.jsp">JSP page</a>.
